@@ -1,0 +1,30 @@
+_repo: The-Cradle-of-the-ChristA-Study-in-Primitive-Christianity_36767
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Frothingham, Octavius Brooks
+    alias: Frothingham, O. B. (Octavius Brooks)
+    birthdate: 1822
+    deathdate: 1895
+    gutenberg_agent_id: '38462'
+    url: http://www.gutenberg.org/2009/agents/38462
+    wikipedia: http://en.wikipedia.org/wiki/Octavius_Brooks_Frothingham
+description: ''
+gutenberg_issued: '2011-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36767'
+  lccn: '70268272'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christianity -- Controversial literature'
+- !lcc 'BL'
+- !lcc 'BS'
+title: 'The Cradle of the Christ: A Study in Primitive Christianity'
+url: http://www.gutenberg.org/ebooks/36767
